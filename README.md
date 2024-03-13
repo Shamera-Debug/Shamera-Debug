@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Zero's%20Github;Machine%20Learning%20Deep%20Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-### :D
+
 
 <!--
 **Shamera-Debug/Shamera-Debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
